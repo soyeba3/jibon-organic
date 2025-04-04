@@ -39,3 +39,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Placeholder images until real ones are added
+/public/images/placeholder.png
+/public/images/hero-banner.jpg
+/public/images/cow-ghee.jpg
+/public/images/mustard-oil.jpg
+/public/images/coconut-oil.jpg
+/public/images/logo.png
+/public/images/about-us.jpg
+/public/images/avatar1.png
+/public/images/avatar2.png
+/public/images/avatar3.png
